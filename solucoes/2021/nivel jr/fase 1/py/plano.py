@@ -9,4 +9,4 @@ for i in range(mes):
    
 nu += X
 
-print(nu);
+print(nu)
